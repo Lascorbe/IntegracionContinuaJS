@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "description": "Another todo list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lascorbe/IntegracionContinuaJS.git"
+  },
+  "keywords": [
+    "todo",
+    "grunt"
+  ],
+  "author": "Luis Ascorbe",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "557e3eecc2bf2ceafad2c17627fb397dce3c4e22",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-watch": "~0.3.1"
+  }
+}
